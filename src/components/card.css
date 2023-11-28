@@ -1,0 +1,27 @@
+.card{
+        width: 220px;
+        height: 480px;
+        background-color: aqua;
+        display: inline-block;
+        margin: 5px;
+}
+img{
+        width: 100%;   
+}
+.card h3{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    top: -20px;
+}
+.card p{
+    font-family: 'Poppins', sans-serif;
+
+}
+.poleft{
+        position: relative;
+        left: 10px;
+}
+.hh{
+ color: #fff;
+}
