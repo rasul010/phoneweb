@@ -1,6 +1,6 @@
 .card{
-        width: 220px;
-        height: 480px;
+        width: 250px;
+        height: 510px;
         background-color: aqua;
         display: inline-block;
         margin: 5px;
@@ -24,4 +24,10 @@ img{
 }
 .hh{
  color: #fff;
+}
+@media screen and (max-width: 450px){
+   div .card{
+        width: 95%;
+        height: 650px;
+   }
 }
